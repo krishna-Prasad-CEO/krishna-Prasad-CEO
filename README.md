@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **three.js**
 
-- 👨‍💻 All of my projects are available at [https://krishna-prasad-ceo.github.io/Portfolio.github.io/](https://krishna-prasad-ceo.github.io/Portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://modern-uiux-ysbp.vercel.app/](https://modern-uiux-ysbp.vercel.app/)
 
 - 💬 Ask me about **Java, Python, C++, C, Php, HTML, CSS, JavaScript, Bootstrap, React, Tailwind, AJAX, jQuery, Node.js, Express.js, Next.js, GSAP, Framer-Motion, MySQL, PostgreSQL, MongoDB, Eclipse IDE, VS Code, Git, XAMPP, phpMyAdmin, Postman, Matlab, Word, Excel, Ppt, Canva, REST APIs, Data Structures and Algorithms - DSA, Object-Oriented Programming - OOP, Design Patterns, OOA&D, XSS prevention, Authentication (JWT, OAuth), SMA, Socket.io, Convex, Clerk, DaisyUI, ShadcnUI, Vapi.**
 
