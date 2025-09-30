@@ -48,22 +48,44 @@ Built a **real-time messaging app** with **32 customizable themes & media sharin
 ---
 
 ## 🚀 Featured Projects
-📌 **Roby_AI Trainer** – AI-powered learning assistant *(09/2025)*  
-🔗 [View Project](https://ai-trainer-flame.vercel.app/)  
 
-📌 **Chatty – Realtime Chat App** – Live messaging, 32 themes, media sharing *(05/2025 – 06/2025)*  
-🔗 [View Project](https://intern-project-rprx.onrender.com/)  
+<p align="center">
+  <!-- Roby_AI Trainer -->
+  <a href="https://ai-trainer-flame.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Roby_AI%20Trainer-%F0%9F%A4%96-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  
+  <!-- Chatty -->
+  <a href="https://intern-project-rprx.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Chatty%20Realtime%20App-%F0%9F%92%AC-orange?style=for-the-badge&logo=socket.io&logoColor=white" />
+  </a>
+  
+  <!-- MasterClass -->
+  <a href="https://master-class-lgj9.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/MasterClass-%F0%9F%8F%86-red?style=for-the-badge&logo=next.js&logoColor=white" />
+  </a>
+  
+  <!-- Portfolio Builder -->
+  <a href="https://streak.infy.uk" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio%20Builder-%F0%9F%93%9D-green?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  
+  <!-- SpotLight -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/SpotLight%20Social%20App-%F0%9F%92%AB-yellow?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <!-- AI-Powered Engineering Team -->
+  <a href="https://github.com/krishna-Prasad-CEO/software_agent" target="_blank">
+    <img src="https://img.shields.io/badge/AI%20Engineering%20Team-%F0%9F%A4%96-purple?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <!-- MiniMe AI Agent -->
+  <a href="https://krishna-coc-career-conversation.hf.space/" target="_blank">
+    <img src="https://img.shields.io/badge/MiniMe%20AI%20Agent-%F0%9F%94%A5-pink?style=for-the-badge&logo=huggingface&logoColor=white" />
+  </a>
+</p>
 
-📌 **MasterClass – Online Learning Platform** – Udemy-like platform with payments *(01/2025 – 02/2025)*  
-🔗 [View Project](https://master-class-lgj9.vercel.app/)  
-
-📌 **Portfolio Builder** – Automatic realtime portfolio generator *(11/2024 – 12/2024)*  
-🔗 [View Project](https://streak.infy.uk)  
-
-📌 **AI-Powered Engineering Team** – Agentic crew for full-stack solutions *(08/2024)*  
-🔗 [View Project](https://github.com/krishna-Prasad-CEO/software_agent)  
-
----
 
 ## 🏆 Awards
 🏅 **Winner – IIT Bombay Geospatial Mapathon (2023)**  
