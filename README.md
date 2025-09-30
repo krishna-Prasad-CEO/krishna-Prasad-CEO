@@ -100,7 +100,7 @@ AI-Powered Full-Stack and System Design Engineer with strong expertise in backen
 </p>
 
 📧 **Email:** krishnaprasadandco12@gmail.com  
-📄 [Download Resume](https://drive.google.com/file/d/1ji3kh1vYcZ-Ifiu4Icv_x1zrTFi1iPZa/view?usp=drivesdk)
+📄 [Download Resume]([https://drive.google.com/file/d/1ji3kh1vYcZ-Ifiu4Icv_x1zrTFi1iPZa/view?usp=drivesdk](https://drive.google.com/file/d/1dbTnd5qfHRWpedQeVCHdzN86EUqioFco/view?usp=drivesdk))
 
 ---
 
