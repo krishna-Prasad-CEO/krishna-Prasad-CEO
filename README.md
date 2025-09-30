@@ -58,42 +58,46 @@ Built a **real-time messaging app** with **32 customizable themes & media sharin
 
 ## 🚀 Featured Projects
 
-<p align="center">
+## 🚀 Featured Projects
+<p align="center" style="display:flex; flex-direction:column; align-items:center; gap:10px;">
+
   <!-- Roby_AI Trainer -->
   <a href="https://ai-trainer-flame.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Roby_AI%20Trainer-%F0%9F%A4%96-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  
+
   <!-- Chatty -->
   <a href="https://intern-project-rprx.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Chatty%20Realtime%20App-%F0%9F%92%AC-orange?style=for-the-badge&logo=socket.io&logoColor=white" />
   </a>
-  
+
   <!-- MasterClass -->
   <a href="https://master-class-lgj9.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/MasterClass-%F0%9F%8F%86-red?style=for-the-badge&logo=next.js&logoColor=white" />
   </a>
-  
+
   <!-- Portfolio Builder -->
   <a href="https://streak.infy.uk" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%20Builder-%F0%9F%93%9D-green?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-  
+
   <!-- SpotLight -->
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/SpotLight%20Social%20App-%F0%9F%92%AB-yellow?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
+
   <!-- AI-Powered Engineering Team -->
   <a href="https://github.com/krishna-Prasad-CEO/software_agent" target="_blank">
     <img src="https://img.shields.io/badge/AI%20Engineering%20Team-%F0%9F%A4%96-purple?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
+
   <!-- MiniMe AI Agent -->
   <a href="https://krishna-coc-career-conversation.hf.space/" target="_blank">
     <img src="https://img.shields.io/badge/MiniMe%20AI%20Agent-%F0%9F%94%A5-pink?style=for-the-badge&logo=huggingface&logoColor=white" />
   </a>
+
 </p>
+
 
 
 ## 🏆 Awards
@@ -120,7 +124,7 @@ HSC: **94.2%** | SSLC: **90.2%**
 ---
 
 ## 🌍 Connect With Me
-<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
+<p align="center" style="display:flex; flex-direction:column; align-items:center; gap:10px;">
 
   <!-- Email -->
   <a href="mailto:krishnaprasadandco12@gmail.com" target="_blank">
@@ -176,7 +180,7 @@ HSC: **94.2%** | SSLC: **90.2%**
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="center" style="display:flex; flex-direction:column; align-items:center; gap:10px;">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-prasad-ceo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" style="margin-right:10px"/>
   
