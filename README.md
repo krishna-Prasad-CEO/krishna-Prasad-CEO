@@ -36,10 +36,12 @@ Built a **real-time messaging app** with **32 customizable themes & media sharin
 </p>
 
 - **LLM Engineering:** LLM, RAG, Hugging Face, LangChain  
-- **Agentic AI:** CrewAI, LangGraph, AutoGen  
-- **System Design:** LLD, HLD, Design Patterns, OOA&D  
+- **Agentic AI:** CrewAI, LangGraph, AutoGen
+- **DevOps:** Linux, Docker, Kubernetes, MLOps, GitOps, VM, Automation, Jerkins  
+- **System Design:** LLD, HLD, Design Patterns, OOA&D
+- **Programming Language:** Java, C++, Python, PHP
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, AJAX, WordPress  
-- **Backend:** Node.js, Express.js, Convex, Socket.io, Zustand, Webhooks  
+- **Backend:** Node.js, Express.js, Convex, Socket.io, Zustand, Webhooks, Git  
 - **UI/UX:** Figma, Shadcn UI, DaisyUI, Chakra UI, Canva  
 - **Security:** JWT, OAuth, Clerk  
 
