@@ -3,16 +3,25 @@
 <h3 align="center">🚀 AI-Powered Full-Stack & System Design Engineer | Building Scalable Intelligent Applications</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishna-prasad-ceo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=krishna-prasad-ceo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" style="margin-right:10px;"/>
+  
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/krishna-prasad-s-59133a280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="margin-right:10px;"/>
   </a>
+  
+  <!-- Email -->
   <a href="mailto:krishnaprasadandco12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" style="margin-right:10px;"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://modern-uiux-ysbp.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=vercel" alt="Portfolio"/>
   </a>
 </p>
 
----
 
 ## 🧑‍💼 Professional Summary
 🌟 AI-Powered Full-Stack and System Design Engineer with **expertise in backend & frontend development**.  
