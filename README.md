@@ -2,7 +2,7 @@
 <h1 align="center">✨ Hi, I'm <span style="color:#00AEEF;">Krishna Prasad S</span> ✨</h1>
 <h3 align="center">🚀 AI-Powered Full-Stack & System Design Engineer | Building Scalable Intelligent Applications</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=krishna-prasad-ceo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" style="margin:5px"/>
   <a href="https://www.linkedin.com/in/krishna-prasad-s-59133a280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="margin:5px"/>
@@ -13,7 +13,7 @@
   <a href="https://modern-uiux-ysbp.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=vercel" alt="Portfolio" style="margin:5px"/>
   </a>
-</p>
+</div>
 
 ---
 
