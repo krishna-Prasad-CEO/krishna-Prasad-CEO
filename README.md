@@ -120,23 +120,79 @@ HSC: **94.2%** | SSLC: **90.2%**
 ---
 
 ## 🌍 Connect With Me
-<p align="center">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px;">
+
+  <!-- Email -->
+  <a href="mailto:krishnaprasadandco12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-krishnaprasadandco12@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" height="40"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://modern-uiux-ysbp.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge&logo=vercel" alt="Portfolio" height="40"/>
+  </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/krishna-prasad-s-59133a280/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" height="40"/>
   </a>
-  <a href="https://www.youtube.com/@22ec023krishnaprasad.s" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="50" />
+
+  <!-- GitHub -->
+  <a href="https://github.com/krishna-Prasad-CEO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" height="40"/>
   </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Krishna_Prasad_S/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" height="40"/>
+  </a>
+
+  <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/krishnaprasadan2" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" width="50" />
+    <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank" alt="HackerRank" height="40"/>
   </a>
+
+  <!-- Hugging Face -->
+  <a href="https://huggingface.co/krishna-coc/spaces" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-Spaces-orange?style=for-the-badge&logo=huggingface" alt="Hugging Face" height="40"/>
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/user/krishnaprasm3t5/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" height="40"/>
+  </a>
+
+  <!-- Phone/WhatsApp -->
+  <a href="tel:+919489401725" target="_blank">
+    <img src="https://img.shields.io/badge/Call-+91%209489401725-blue?style=for-the-badge&logo=phone" alt="Call" height="40"/>
+  </a>
+  <a href="https://wa.me/919345701613" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-+91%209345701613-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp" height="40"/>
+  </a>
+
 </p>
+
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-prasad-ceo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=krishna-prasad-ceo&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-prasad-ceo&theme=highcontrast" alt="Streak Stats" height="180em"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishna-prasad-ceo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" style="margin-right:10px"/>
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna-prasad-ceo&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="180em" style="margin-right:10px"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-prasad-ceo&theme=highcontrast" alt="Streak Stats" height="180em" style="margin-right:10px"/>
+  
+  <!-- Followers Badge -->
+  <img src="https://img.shields.io/github/followers/krishna-prasad-ceo?label=Followers&style=for-the-badge&logo=github" alt="Followers" height="50em" style="margin-right:10px"/>
+  
+  <!-- Total Commits Badge -->
+  <img src="https://img.shields.io/github/commit-activity/m/krishna-prasad-ceo?label=Commits&style=for-the-badge&logo=github" alt="Commits" height="50em" style="margin-right:10px"/>
+  
+  <!-- Top Starred Repo Badge -->
+  <img src="https://img.shields.io/github/stars/krishna-prasad-ceo?label=Stars&style=for-the-badge&logo=github" alt="Stars" height="50em"/>
 </p>
+
